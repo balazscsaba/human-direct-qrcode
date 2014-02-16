@@ -1,0 +1,15 @@
+{
+    "name": "HumanDirect/qrcode_renderer_testcase",
+    "description": "QR code renderer test case",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Balazs Csaba",
+            "email": "balazscsaba2006@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {"HumanDirect\\": "src/"}
+    }
+}
