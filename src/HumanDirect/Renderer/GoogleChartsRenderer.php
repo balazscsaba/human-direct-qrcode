@@ -2,11 +2,11 @@
 
 namespace HumanDirect\Renderer;
 
-use HumanDirect\Curl\Curl,
-    HumanDirect\Curl\CurlResponse,
-    HumanDirect\Exception\QrCodeException,
-    HumanDirect\Exception\RuntimeException,
-    HumanDirect\Http\HttpResponse;
+use HumanDirect\Curl\Curl;
+use HumanDirect\Curl\CurlResponse;
+use HumanDirect\Exception\QrCodeException;
+use HumanDirect\Exception\RuntimeException;
+use HumanDirect\Http\HttpResponse;
 
 /**
  * HumanDirect Google Charts renderer

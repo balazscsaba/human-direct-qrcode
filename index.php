@@ -5,8 +5,8 @@
  */
 require_once __DIR__.'/vendor/autoload.php';
 
-use HumanDirect\QrCode,
-    HumanDirect\Renderer\GoogleChartsRenderer;
+use HumanDirect\QrCode;
+use HumanDirect\Renderer\GoogleChartsRenderer;
 
 /**
  * Bootstrap the application

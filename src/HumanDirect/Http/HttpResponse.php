@@ -14,7 +14,7 @@ class HttpResponse
     /**
      * Send response to output
      *
-     * @param $response
+     * @param string $response
      * @param array $headers
      */
     public static function output($response = \NULL, $headers = array())

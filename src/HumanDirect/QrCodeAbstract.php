@@ -2,9 +2,9 @@
 
 namespace HumanDirect;
 
-use HumanDirect\Renderer\RendererInterface,
-    HumanDirect\Exception\InvalidArgumentException,
-    HumanDirect\Exception\RuntimeException;
+use HumanDirect\Renderer\RendererInterface;
+use HumanDirect\Exception\InvalidArgumentException;
+use HumanDirect\Exception\RuntimeException;
 
 /**
  * HumanDirect abstract class

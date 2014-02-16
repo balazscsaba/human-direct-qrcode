@@ -152,7 +152,7 @@ abstract class RendererAbstract implements RendererInterface
     /**
      * Get margin of image resource
      *
-     * @return string
+     * @return int
      */
     protected function getMargin()
     {
