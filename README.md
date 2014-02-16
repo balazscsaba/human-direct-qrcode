@@ -1,4 +1,4 @@
-human-direct-qrcode
+QR code generator
 ===================
 
-HumanDirect qrcode generator
+Install package using ``composer install`` and run ``index.php``.
