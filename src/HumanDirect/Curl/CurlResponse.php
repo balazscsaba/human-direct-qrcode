@@ -26,9 +26,9 @@ class CurlResponse
     private $content;
 
     /**
-     * Response hraders
+     * Response headers
      *
-     * @var string
+     * @var array
      */
     private $headers;
 
