@@ -17,7 +17,7 @@ class HttpResponse
      * @param $response
      * @param array $headers
      */
-    public static function output($response = \NULL, array $headers = array())
+    public static function output($response = \NULL, $headers = array())
     {
         $contentType = isset($headers['Content-Type']) ? $headers['Content-Type'] : 'text/html';
 
